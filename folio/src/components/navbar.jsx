@@ -5,26 +5,26 @@ function Navbar() {
           <span className="flex justify-center items-center h-1 w-1 animate-ping rounded-full bg-emerald-600 opacity-75"></span>
           <p className="text-[#8a8a8a] text-sm font-[Sen] font-bold pr-14 pl-2 2xl:font-4xl xl:font-4xl lg:font-3xl md:font-2xl sm:font-2xl ">Mumbai, India</p>
         </div>
-        <nav className="inline-flex justify-right items-center">
+        <nav className="flex justify-right items-center">
           <div>
             <ul className="flex space-x-2">
               <li>
-                <a href="#Home" className="hover:text-black hover:drop-shadow-sm hover:translate-y-1 hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-transform duration-300 ease-in-out">
-                  Home
+                <a href="#home" className="hover:text-black hover:drop-shadow-sm hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-all duration-300 ease-in-out inline-flex">
+              Home
                 </a>
               </li>
-              <li>
-                <a href="#About" className="hover:text-black hover:drop-shadow-sm hover:translate-y-1 hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-transform duration-300 ease-in-out">
+              <li >
+                <a href="#Extras" className="hover:text-black hover:drop-shadow-sm hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-all duration-300 ease-in-out inline-flex">
                   Extras
                 </a>
               </li>
               <li>
-                <a href="#Projects" className="hover:text-black hover:drop-shadow-sm hover:translate-y-1 hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-transform duration-300 ease-in-out">
+                <a href="#Projects" className="hover:text-black hover:drop-shadow-sm hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-all duration-300 ease-in-out inline-flex">
                   Projects
                 </a>
               </li>
-              <li>
-                <a href="#Contact" className="hover:text-black hover:drop-shadow-sm hover:translate-y-1 hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-transform duration-300 ease-in-out">
+              <li >
+                <a href="#Contact" className="hover:text-black hover:drop-shadow-sm hover:scale-105 text-[#8a8a8a] pr-4 pl-2 font-[Sen] font-bold text-sm transition-all duration-300 ease-in-out inline-flex">
                   Contact
                 </a>
               </li>
