@@ -6,7 +6,7 @@ function Intro(){
             <div className="font-[Fredoka] text-[#9e9e9e] text-[15px] sm:text-xl">intro</div>
             <div className="h-[1px] bg-[#e9e9e9] flex-grow ml-4" />
       </div>
-        <div className= "font-[Aleo] font-medium text-black flex flex-col items-start pt-2 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[50px] text-wrap 2xl:leading-[70px] xl:leading-[70px] lg:leading-[70px] md:leading-[70px] sm:leading-[55px]">
+        <div className= "font-[Aleo] font-medium text-black flex flex-col items-start pt-2 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[50px] text-wrap 2xl:leading-[85px] xl:leading-[85px] lg:leading-[85px] md:leading-[70px] sm:leading-[55px]">
             <p>
                 i <span className="font-regular text-[#0548ff] hover:scale-105 inline-flex transition-all duration-300 ease-in-out">code</span> and <span className="font-regular text-[#da15e1] hover:scale-105 inline-flex transition-all duration-300 ease-in-out">design</span> stuff on the internet.
             </p>

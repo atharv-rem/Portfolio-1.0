@@ -15,34 +15,34 @@ function Stack() {
       </div>
 
       <div className="grid grid-cols-5 gap-y-4 sm:gap-x-1 md:gap-x-2 lg:gap-x-2 xl:gap-x-2 2xl:gap-x-2 mx-6 sm:mx-40 md:mx-50 lg:mx-60 xl:mx-70 2xl:mx-80 mt-5 mb-5 p-2 justify-center justify-items-center">
-        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={react} alt="React logo" className="aspect-square object-center" />
         </div>
-        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={tailwind} alt="Tailwind CSS logo" className="aspect-square object-center" />
         </div>
-        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={figma} alt="Figma logo" className="aspect-square object-center" />
         </div>
-        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={framer} alt="Framer logo" className="aspect-square object-center" />
         </div>
-        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-2 sm:p-2 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={python} alt="Python logo" className="aspect-square object-center" />
         </div>
-        <div className="p-3 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-3 sm:p-3 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={plus} alt="Plus icon" className="aspect-square object-center" />
         </div>
-        <div className="p-3 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-3 sm:p-3 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={plus} alt="Plus icon" className="aspect-square object-center" />
         </div>
-        <div className="p-3 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-3 sm:p-3 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={plus} alt="Plus icon" className="aspect-square object-center" />
         </div>
-        <div className="p-3 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-3 sm:p-3 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={plus} alt="Plus icon" className="aspect-square object-center" />
         </div>
-        <div className="p-3 sm:p-2 size-10 sm:size-12 rounded-[10px] border-[1px] bg-white border-[#dfdfdf] hover:scale-105 transition-transform duration-300 ease-in-out flex-auto">
+        <div className="p-3 sm:p-3 size-10 sm:size-12 rounded-[10px]  bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <img src={plus} alt="Plus icon" className="aspect-square object-center" />
         </div>
       </div>
