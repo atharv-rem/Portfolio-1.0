@@ -6,6 +6,7 @@ import Project from "./components/project"
 import Social from "./components/social"
 import Stack from "./components/stack"
 import Extras from "./components/extras"
+import Contactme from "./components/contact"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Stack/>
       <Project/>
       <Extras/>
+      <Contactme/>
     </>
   )
 }

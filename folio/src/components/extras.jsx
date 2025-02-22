@@ -37,9 +37,11 @@ function Extras() {
           </div>
         </div>
         <div className="flex pt-1 pb-4 px-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 justify-start items-center w-full">
+          <a href="https://www.lummi.ai/creator/atharv-rem" target="_blank" rel="noreferrer">
           <div className="font-[Doto] font-extrabold text-black text-2xl rounded-[15px] p-4 justify-center items-center shadow-sm sm:shadow-sm hover:shadow-md">
             Visit account
           </div>
+          </a>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 pt-5 gap-4 sm:gap-5 md:gap-6 mx-4 sm:mx-5 md:mx-6 mt-5 opacity-80 mb-10">
