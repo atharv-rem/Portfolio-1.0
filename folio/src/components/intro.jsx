@@ -5,8 +5,10 @@ function Intro(){
             <div className="h-[1px] bg-[#e9e9e9] flex-grow mr-4" />
             <div className="font-[Fredoka] text-[#9e9e9e] text-[15px] sm:text-xl">intro</div>
             <div className="h-[1px] bg-[#e9e9e9] flex-grow ml-4" />
-      </div>
-        <div className= "font-[Aleo] font-medium text-black flex flex-col items-start pt-2 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[50px] text-wrap 2xl:leading-[85px] xl:leading-[85px] lg:leading-[85px] md:leading-[70px] sm:leading-[55px]">
+        </div>
+        
+        <div className= "font-[Aleo] font-medium text-black flex flex-col items-start pt-2 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[50px] text-wrap 2xl:leading-[85px] xl:leading-[85px] lg:leading-[85px] md:leading-[70px] sm:leading-[55px]"
+        style={{textShadow: '0px 114px 32px rgba(179, 179, 179, 0.00), 0px 73px 29px rgba(179, 179, 179, 0.01), 0px 41px 25px rgba(179, 179, 179, 0.05), 0px 18px 18px rgba(179, 179, 179, 0.09), 0px 5px 10px rgba(179, 179, 179, 0.10)'}}>
             <p>
                 i <span className="font-regular text-[#0548ff] hover:scale-105 inline-flex transition-all duration-300 ease-in-out">code</span> and <span className="font-regular text-[#da15e1] hover:scale-105 inline-flex transition-all duration-300 ease-in-out">design</span> stuff on the internet.
             </p>

@@ -13,7 +13,8 @@ function Project() {
         </div>
 
         <div>
-          <p className="font-[Aleo] font-medium text-black flex flex-col items-start pt-4 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[200px]">
+          <p className="font-[Aleo] font-medium text-black flex flex-col items-start pt-4 pb-0 sm:pb-2 md:pb-2 lg:pb-2 xl:pb-2 2xl:pb-2 p-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 2xl:text-8xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl mr-[200px]"
+          style={{textShadow:"0px 119px 33px rgba(168, 168, 168, 0.00), 0px 76px 30px rgba(168, 168, 168, 0.01), 0px 43px 26px rgba(168, 168, 168, 0.05), 0px 19px 19px rgba(168, 168, 168, 0.09), 0px 5px 10px rgba(168, 168, 168, 0.10)",}}>
             Projects
           </p>
         </div>
@@ -27,7 +28,7 @@ function Project() {
         <div className="flex flex-col sm:flex-col md:flex-row pt-4 pb-4 px-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 2xl:px-14 justify-center items-center gap-4 md:space-x-4 mt-4">
           {/* first box*/}
           <a href="https://github.com/atharv-rem/Bas.AI" target="_blank" rel="noreferrer">
-            <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-md sm:shadow-md hover:shadow-lg hover:bg-[#f9f9f9]" >
+            <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-sm sm:shadow-sm hover:shadow-mg hover:bg-[#f9f9f9] border-1 border-[#f2f2f2]" >
               <div className="flex bg-white rounded-[18px]">
                 <img src={data} alt="data analysis" className="w-full h-auto object-cover" />
               </div>
@@ -35,13 +36,13 @@ function Project() {
                 <div className="text-black  rounded-[18px] text-[18px] sm:text-xl md:text-lg lg:text-xl xl:text-xl font-[Fredoka] mt-1 mb-1 pt-1 px-2 justify-center items-center w-full h-auto">
                   bas.ai
                 </div>
-                <img src={arrrow} alt="arrow" className="w-6 h-6 p-1.5 object-cover" />
+                <img src={arrrow} alt="arrow" className="w-5 h-5 p-[4px] object-cover" />
               </div>
             </div>
           </a>
   
           {/* second box*/}
-          <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-sm opacity-50" >
+          <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-sm opacity-50 border-1 border-[#f2f2f2]" >
             <div className="flex bg-white rounded-[18px]">
               <img src={comingsoon} alt="coming soon" className="w-full h-auto object-cover" />
             </div>
@@ -49,7 +50,7 @@ function Project() {
           </div>
 
           {/* third box*/}
-          <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-sm opacity-50" >
+          <div className="justify-center items-center flex-col pt-2 pb-1 px-2 rounded-[22px] shadow-sm opacity-50 border-1 border-[#f2f2f2]" >
             <div className="flex bg-white rounded-[18px]">
               <img src={comingsoon} alt="coming soon" className="w-full h-auto object-cover" />
             </div>

@@ -16,7 +16,6 @@ function Social() {
       <div className="grid grid-cols-5 gap-1 sm:gap-1 md:gap-2 lg:gap-2 xl:gap-2 2xl:gap-2 mx-6 sm:mx-40 md:mx-50 lg:mx-60 xl:mx-70 2xl:mx-80 mt-5 mb-5 p-2 justify-center justify-items-center ">
         <div className="p-2 sm:p-3 size-10 sm:size-12 rounded-[10px] bg-white hover:scale-110  flex-auto shadow-md shadow-gray-100">
           <a href="https://x.com/atharv_rem" target="_blank" rel="noreferrer">
-          
             <img src={twitter} alt="X logo" className="aspect-square object-center" />
           </a>
         </div>

@@ -5,6 +5,7 @@ import Navbar from "./components/navbar"
 import Project from "./components/project"
 import Social from "./components/social"
 import Stack from "./components/stack"
+import Extras from "./components/extras"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Social/>
       <Stack/>
       <Project/>
+      <Extras/>
     </>
   )
 }
