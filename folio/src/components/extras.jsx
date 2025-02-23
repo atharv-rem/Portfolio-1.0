@@ -1,5 +1,5 @@
 import cheerful from "../assets/Cheerful Man in Maroon Turtleneck.jpeg";
-import cloudy from "../assets/contemplative Girl Under Cloudy Sky.jpeg";
+import cloudy from "../assets/Contemplative Girl Under Cloudy Sky.jpeg";
 import earthy from "../assets/Contemplative Young Man in Earthy Tones.jpeg";
 import tattoo from "../assets/Profile of a Young Man with Tattoo.jpeg";
 import white from "../assets/Young Man in White Shirt.jpeg";
