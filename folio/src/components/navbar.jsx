@@ -13,7 +13,7 @@ function Navbar() {
       <div className="overscroll-contain flex mt-0 mr-2 ml-2 rounded-xl backdrop-blur-md sticky top-0 z-50 h-12 items-center">
         <div className="flex-auto flex justify-left items-center pl-2">
           <span className="flex justify-center items-center size-1 sm:size-1 md:size-1.25 lg:size-1.5 xl:size-1.5 2xl:size-1.5 animate-ping rounded-full bg-emerald-600 opacity-75"></span>
-          <p className="text-[#8a8a8a] text-sm font-[Sen] font-bold pr-14 pl-2 2xl:text-2xl xl:text-xl lg:text-lg md:text-md sm:text-md ">Mumbai, India</p>
+          <p className="text-[#8a8a8a] font-[Sen] font-bold pr-14 pl-2 2xl:text-2xl xl:text-xl lg:text-lg md:text-lg sm:text-md text-lg ">Mumbai, India</p>
         </div>
 
         {/* desktop view */}
